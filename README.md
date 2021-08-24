@@ -8,14 +8,21 @@ A simple react app project implemented tailwindcss dan framer-motion. Bootstrapp
 
 Instal the dependencies
 
-`npm install`
+```
+npm install
+```
 
 Run in dev mode
 
-`npm run dev`
+```
+npm run dev
+```
 
 Go to http://localhost:3000
 
 Create a production build
 
-`npm run build`
+```
+npm run build
+```
+
